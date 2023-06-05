@@ -2,7 +2,7 @@
   "name": "iron-frontend",
   "version": "1.0",
   "dependencies": {
-    "ethereumjs-abi": "^0.6.7",
+    "ethereumjs-abi": "^0.6.8",
     "@ethersproject/abi": "^5.1.2",
     "@ethersproject/abstract-signer": "^5.1.0",
     "@ethersproject/contracts": "^5.1.1",
